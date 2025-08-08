@@ -1,3 +1,3 @@
 import os
-#ENVIRONMENT = os.getenv("ENV", "development")  # "test" veya "development"
-ENVIRONMENT = os.getenv("ENV", "test")
+ENVIRONMENT = os.getenv("ENV", "test")  # "test" or "development"
+
